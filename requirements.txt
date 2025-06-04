@@ -1,0 +1,29 @@
+# Versiones específicas para máxima compatibilidad
+# Generado para CycleGuard - Sistema de detección para ciclismo
+
+# Core Computer Vision
+opencv-python==4.8.1.78
+
+# Deep Learning Framework
+torch==2.0.1
+torchvision==0.15.2
+
+# YOLO Object Detection
+ultralytics==8.0.196
+
+# Numerical Computing
+numpy==1.24.3
+
+# Image Processing
+Pillow==10.0.0
+
+# Visualization (opcional)
+matplotlib==3.7.1
+
+# Progress bars
+tqdm==4.65.0
+
+# Para instalación con GPU (CUDA 11.8) - descomenta si tienes GPU NVIDIA:
+# --index-url https://download.pytorch.org/whl/cu118
+# torch==2.0.1+cu118
+# torchvision==0.15.2+cu118
