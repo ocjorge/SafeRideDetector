@@ -228,7 +228,7 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](L
 
 ## 📞 Contacto
 
-- GitHub: [@ocjore](https://github.com/ocjorge)
+- GitHub: [@ocjorge](https://github.com/ocjorge)
 
 ---
 
